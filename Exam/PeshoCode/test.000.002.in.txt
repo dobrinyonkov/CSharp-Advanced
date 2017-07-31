@@ -1,0 +1,6 @@
+will
+4
+Software developers like to solve
+problems. If they are no problems
+handily available, they will create
+their own problems.

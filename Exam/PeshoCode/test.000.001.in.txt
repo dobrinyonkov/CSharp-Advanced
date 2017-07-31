@@ -1,0 +1,5 @@
+tell
+3
+How do you tell html from html5? Try
+it out in internet explorer. Did it
+work? No? It's html5.
